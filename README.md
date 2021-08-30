@@ -4,9 +4,7 @@ pauline.tannos@gmail.com  |  (718) 288 0382  |  <a href="https://www.linkedin.co
 
 <hr />
 
-### About This Site
-
-Visit my portfolio site at <a href="https://ptannos.github.io/" target="_blank">ptannos.github.io</a>. 
+Visit my deployed portfolio site at <a href="https://ptannos.github.io/" target="_blank">ptannos.github.io</a>. 
 
 Template: Stellar by HTML5 UP
 html5up.net | @ajlkn
